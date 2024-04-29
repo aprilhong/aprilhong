@@ -1,5 +1,5 @@
 # My Tale
-Long ago.... a **seed** 🌱 planted from a database course at the university, **sprouted** 🌱 into an interest for data transformation, **grew** 🌿 with practice from data analysis and visualization and ultimately **blossomed** 🌸 into a aspiriation to become a data scientist 📈👩‍🔬.
+Long ago.... a **seed** 🌱 planted from a database course at the university, **sprouted** 🌱 into an interest for data transformation, **grew** 🌿 with data analysis and visualization practices and ultimately **blossomed** 🌸 into a aspiriation to become a data scientist 📈👩‍🔬.
 
 ### Skills
 Python / SQL / Excel / PowerBI / Tableau 
