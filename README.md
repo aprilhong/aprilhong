@@ -1,8 +1,5 @@
-### 👩💪📊 Petite girl challenging big DATA
-
-
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
-  
+# My Tale
+Long ago.... a **seed** 🌱 planted from a database course at the university, **sprouted** 🌱 into an interest for data transformation, **grew** 🌿 with practice from data analysis and visualization and ultimately **blossomed** 🌸 into a aspiriation to become a data scientist 📈👩‍🔬.
 
 ### Skills
 Python / SQL / Excel / PowerBI / Tableau 
