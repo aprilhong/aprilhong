@@ -2,7 +2,7 @@
 
 ### Education
 - University of Florida
-- University of Arkansasa
+- University of Arkansas
 - Google Certificate
 
 ### Work Experience
