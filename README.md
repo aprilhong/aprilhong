@@ -1,5 +1,5 @@
 # My Tale
-*Long ago.... a **seed** 🌱 planted from a database course at the university, **sprouted** 🌿 into an interest for data transformation, **grew** 🌳 with data analysis and visualization practices and ultimately **blossomed** 🌸 into a aspiriation to become a **Data Scientist** 📈👩‍🔬.*
+*Long ago.... a **seed** 🌱 planted from a database course at the university, **sprouted** 🌿 into an interest for data transformation, **grew** 🌳 with data analysis and visualization practices and ultimately **blossomed** 🌸 into a aspiration to become a **Data Scientist** 📈👩‍🔬.*
 
 ### Skills
 - **Programming Languages**: Python, SQL, HTML, CSS
