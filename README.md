@@ -14,6 +14,7 @@
 
 ### Certificates
 - 2023 Google Advanced Data Analytics Certificate
+- 2022 Graduate Certificate in Project Management 
 - 2012 Engineer in Training Certificate
 
 ### Education
