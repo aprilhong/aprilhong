@@ -18,7 +18,7 @@
 - 2012 Engineer in Training Certificate
 
 ### Education
-- 2022 University of Arkansas | Masters | Engineering
+- 2022 University of Arkansas | Master's | Engineering
 - 2012 University of Florida | Bachelor’s | Environmental Engineering
 
 ### Work Experience
