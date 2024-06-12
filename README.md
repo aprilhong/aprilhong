@@ -4,6 +4,7 @@
 ### Data Science Projects
 1. [Predicting bank churn with machine learning models](https://github.com/aprilhong/bankchurn)
 2. [Exploratory Data Analysis and Visualization of Vehicle Sales](https://github.com/aprilhong/vehiclesales)
+3. [A/B Testing on Ads Marketing Campaign](https://github.com/aprilhong/ads_abtest)
 
 ### Skills
 - **Programming Languages**: Python, SQL, HTML, CSS
