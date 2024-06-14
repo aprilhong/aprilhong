@@ -1,5 +1,5 @@
 # My Tale
-*Long ago.... a **seed** 🌱 planted from a database course at the university, **sprouted** 🌿 into an interest for data transformation, **grew** 🌳 with data analysis and visualization practices and ultimately **blossomed** 🌸 into a aspiration to become a **Data Scientist** 📈👩‍🔬.*
+*Long ago.... a **seed** 🌱 planted from a course at the graduate school, **sprouted** 🌿 into an interest for data discovery, **grew** 🌳 with exploratory analyses and ultimately **blossomed** 🌸 into a aspiration to become a **Data Scientist** 📈👩‍🔬.*
 
 ### Data Science Projects
 1. [Predicting bank churn with machine learning models](https://github.com/aprilhong/bankchurn)
