@@ -10,7 +10,7 @@
 - **Programming Languages**: Python, SQL, HTML, CSS
 - **Python Packages**: numpy, pandas, scipy, seaborn, matplotlib, statsmodels, scikit-learn
 - **Machine Learning Models**: Regression (linear, logistic), Naive Bayes, Decision tree, Random Forest, AdaBoost, XGBoost
-- **Tools**: Visual Studio Code, Conda, Github, Jupyter Notebook, IntelliJ IDEA, MySQL Workbench, Tableau, PowerBI, Excel
+- **Tools**: PostgreSQL, MySQL Workbench, Jupyter Notebook, Visual Studio Code, Conda, Github, IntelliJ IDEA, Tableau, PowerBI, Excel
 
 ### Certificates
 - 2023 Google Advanced Data Analytics Certificate
