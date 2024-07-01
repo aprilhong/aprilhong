@@ -18,19 +18,6 @@
 - 2022 Graduate Certificate in Project Management 
 - 2012 Engineer in Training Certificate
 
-### Education
-- 2022 University of Arkansas | Master's | Engineering
-- 2012 University of Florida | Bachelor’s | Environmental Engineering
-
-### Work Experience
-#### July 2022 – May 2024 | Packaging Engineer | Johnson Controls International
--	Introduced & Deployed Power BI dashboards to packaging department to enable automatic project and KPI tracking and improved efficiency by 25%. 
--	Import and normalized raw data from various source systems (excel, forms, Oracle, etc.) and extracted insights from sales and packaging spend 
-
-
-#### Mar 2021 – Apr 2022 | Senior Manager, Packaging & Industrial engineering | Serta Simmons Bedding
-- Completed Database Modeling course as part of master’s degree with strong understanding and knowledge in background data warehouse design (e.g. dimensional modeling) and SQL databases and SQL statements. 
-
 
 
 
