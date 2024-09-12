@@ -6,6 +6,7 @@
 2. [Exploratory Data Analysis and Data Cleaning of Vehicle Sales](https://github.com/aprilhong/vehiclesales)
 3. [A/B Testing on Ads Marketing Campaign](https://github.com/aprilhong/ads_abtest)
 4. [Analysis of Data Job Market with SQL](https://github.com/aprilhong/datajobs)
+5. [Sentiment Analysis of Restaurant Reviews](https://github.com/aprilhong/NLP_restaurant_reviews)
 
 ### Skills
 - **Programming Languages**: Python, SQL, HTML, CSS
