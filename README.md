@@ -11,8 +11,8 @@
 ### Skills
 - **Programming Languages**: Python, SQL, HTML, CSS
 - **Python Packages**: numpy, pandas, scipy, seaborn, matplotlib, statsmodels, scikit-learn
-- **Machine Learning Models**: Regression (linear, logistic), Naive Bayes, Decision tree, Random Forest, AdaBoost, XGBoost
-- **Tools**: PostgreSQL, MySQL Workbench, Jupyter Notebook, Visual Studio Code, Conda, Github, IntelliJ IDEA, Tableau, PowerBI, Excel
+- **Machine Learning Models**: Regression (linear, logistic), Naive Bayes, Decision tree, Random Forest, AdaBoost, XGBoost, NLP 
+- **Tools**: PostgreSQL, MySQL Workbench, Jupyter Notebook, Visual Studio Code, Conda, Github, IntelliJ IDEA, Tableau, PowerBI, Excel, Streamlit
 
 ### Certificates
 - 2023 Google Advanced Data Analytics Certificate
