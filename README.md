@@ -15,8 +15,8 @@
 - **Tools**: PostgreSQL, MySQL Workbench, Jupyter Notebook, Visual Studio Code, Conda, Github, IntelliJ IDEA, Tableau, PowerBI, Excel, Streamlit
 
 ### Education
-•	University of Arkansas | Master of Science in Engineering | Industrial Engineering			    
-•	University of Florida | Bachelor of Science in Environmental Engineering 				    
+•	**University of Arkansas**: Master of Science in Engineering | Industrial Engineering			    
+•	**University of Florida**: Bachelor of Science in Environmental Engineering 				    
 
 
 ### Certificates
